@@ -13,6 +13,6 @@ I'm a Software Engineer(Frontend developer). I'm passionate about sharing knowle
 - 🌱 I’m skilled JavaScript, Reactjs, Git and Github and currently learning Vue.js.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer(Intern or Junior level).
-- 📫 contact me by emailing brownboy3047@gmail.com.
+- 📫 contact me by emailing mabunmiafolabi@gmail.com.
 
 ---
