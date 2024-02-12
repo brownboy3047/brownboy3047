@@ -9,10 +9,8 @@ I'm a Software Engineer(Frontend developer). I'm passionate about sharing knowle
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m skilled HTML,CSS, JavaScript, Reactjs, Git and Github and Vue.js.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer(Intern or Junior level).
+- 🌱 I’m skilled HTML,CSS, JavaScript, Reactjs, Git and Github.
+- 💼 Job interests: Software Engineer, Front Engineer.
 - 📫 contact me by emailing mabunmiafolabi@gmail.com.
 
 ---
